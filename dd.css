@@ -1,0 +1,19 @@
+body{
+    background-color: chartreuse;
+    align-items: flex-start;
+    text-align: center;
+    margin: 0;
+    border: whitesmoke;
+}
+
+.ff {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: ghostwhite;
+    background-color: floralwhite;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 6px 6px 7px 10px navy ;
+}
